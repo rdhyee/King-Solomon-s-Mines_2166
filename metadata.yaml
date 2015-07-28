@@ -1,0 +1,35 @@
+_repo: King-Solomon-s-Mines_2166
+creator:
+  author:
+    agent_name: Haggard, H. Rider (Henry Rider)
+    aliases:
+    - Haggard, Henry Rider
+    - Haggard, Rider
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '365'
+    url: http://www.gutenberg.org/2009/agents/365
+    wikipedia: http://en.wikipedia.org/wiki/H._Rider_Haggard
+gutenberg_bookshelf:
+- Best Books Ever Listings
+- Adventure
+- Movie Books
+gutenberg_issued: '2000-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2166'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- '!lcsh:Africa -- Fiction'
+- '!lcsh:Hunting guides -- Fiction'
+- '!lcsh:Treasure troves -- Fiction'
+- '!lcsh:Adventure stories'
+- '!lcsh:Quatermain, Allan (Fictitious character) -- Fiction'
+- '!lcc:PR'
+- '!lcsh:Missing persons -- Fiction'
+- '!lcsh:Diamond mines and mining -- Fiction'
+title: King Solomon's Mines
+url: http://www.gutenberg.org/ebooks/2166
