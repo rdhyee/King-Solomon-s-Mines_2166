@@ -12,8 +12,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/H._Rider_Haggard
 gutenberg_bookshelf:
 - Best Books Ever Listings
-- Adventure
 - Movie Books
+- Adventure
 gutenberg_issued: '2000-05-01'
 gutenberg_type: Text
 identifiers:
@@ -23,13 +23,13 @@ publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
 subjects:
-- '!lcsh:Africa -- Fiction'
-- '!lcsh:Hunting guides -- Fiction'
-- '!lcsh:Treasure troves -- Fiction'
-- '!lcsh:Adventure stories'
-- '!lcsh:Quatermain, Allan (Fictitious character) -- Fiction'
-- '!lcc:PR'
-- '!lcsh:Missing persons -- Fiction'
 - '!lcsh:Diamond mines and mining -- Fiction'
+- '!lcsh:Hunting guides -- Fiction'
+- '!lcsh:Missing persons -- Fiction'
+- '!lcsh:Adventure stories'
+- '!lcsh:Africa -- Fiction'
+- '!lcc:PR'
+- '!lcsh:Quatermain, Allan (Fictitious character) -- Fiction'
+- '!lcsh:Treasure troves -- Fiction'
 title: King Solomon's Mines
 url: http://www.gutenberg.org/ebooks/2166
