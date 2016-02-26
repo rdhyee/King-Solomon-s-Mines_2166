@@ -1,5 +1,5 @@
 _repo: King-Solomon-s-Mines_2166
-_version: 0.0.3
+_version: 0.1.0
 covers:
 - attribution: Ed Gaither - Modern Electrographic, 2015
   cover_type: original
@@ -39,5 +39,6 @@ subjects:
 - '!lcsh: Treasure troves -- Fiction'
 - '!lcsh: Africa -- Fiction'
 - '!lcsh: Diamond mines and mining -- Fiction'
+- GITenberg
 title: King Solomon's Mines
 url: http://www.gutenberg.org/ebooks/2166
